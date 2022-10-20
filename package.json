@@ -10,8 +10,8 @@
     "plugins": "plugins"
   },
   "engines": {
-    "node": "18.x",
-    "npm": "7.x"
+    "node": "16.x",
+    "npm": "4.x"
   },
   "scripts": {
     "start": "node index.js",
