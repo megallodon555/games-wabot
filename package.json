@@ -11,7 +11,7 @@
   },
   "engines": {
     "node": "16.x",
-    "npm": "4.x"
+    "npm": "8.x"
   },
   "scripts": {
     "start": "node index.js",
@@ -26,16 +26,16 @@
     "Games-wabot",
     "wabot-aq"
   ],
-  "homepage": "https://github.com/BochilGaming/games-wabot",
+  "homepage": "https://github.com/megallodon555/games-wabot",
   "author": {
-    "name": "BochilGaming"
+    "name": "megallodon555"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BochilGaming/games-wabot.git"
+    "url": "git+https://github.com/megallodon555/games-wabot.git"
   },
   "bugs": {
-    "url": "https://github.com/BochilGaming/games-wabot/issues"
+    "url": "https://github.com/megallodon555/games-wabot"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
